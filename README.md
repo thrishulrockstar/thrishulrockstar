@@ -15,17 +15,17 @@
 
 - 💬 Ask me about **React,.net,mysql,cybersecurity**
 
-- 📫 How to reach me **Ttechnation@gmail.com**
+- 📫 How to reach me **jackthrishul@gmail.com**
 
 - ⚡ Fun fact **I love to focus on details**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jackthrishul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jackthrishul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@thrishul-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@thrishul-v" height="30" width="40" /></a>
-<a href="https://kaggle.com/@thrishulv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@thrishulv" height="30" width="40" /></a>
-<a href="https://fb.com/@snoopersthrishul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@snoopersthrishul" height="30" width="40" /></a>
-<a href="https://instagram.com/@rockstarthrishul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rockstarthrishul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@thrishul-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thrishul-v" height="30" width="40" /></a>
+<a href="https://kaggle.com/@thrishulv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thrishulv" height="30" width="40" /></a>
+<a href="https://fb.com/@snoopersthrishul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="snoopersthrishul" height="30" width="40" /></a>
+<a href="https://instagram.com/@rockstarthrishul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rockstarthrishul" height="30" width="40" /></a>
 <a href="/https://ttechnationtricks.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ttechnationtricks.blogspot.com/" height="30" width="40" /></a>
 </p>
 
