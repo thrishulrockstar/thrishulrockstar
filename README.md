@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Aws,Mern,Typescript**
+- 🌱 I’m currently learning **AWS,MERN,Typescript**
 
 - 📝 I regularly write articles on [https://ttechnationtricks.blogspot.com/](https://ttechnationtricks.blogspot.com/)
 
